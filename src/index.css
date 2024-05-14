@@ -1,0 +1,29 @@
+.background {
+    background-color: rgba(245, 245, 245, 0.325);
+    background-image: url(gambar.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: lightgrey;
+    text-align: center;
+  }
+  
+  .completed span {
+    text-decoration: line-through;
+  }
+  
